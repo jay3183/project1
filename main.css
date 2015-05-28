@@ -1,0 +1,72 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: #666;
+  font-size: 16px;
+}
+
+
+.title {
+  margin: 45px 0 0 0px;
+  font-size: 48px;
+}
+
+h2 {
+
+ color: #f07c17;
+  font-weight: bold;
+  font-size: 24px;
+  margin: 30px 0 0 0px;
+  padding: 0px 0px 0px 0px;
+
+}
+
+.subtitle {
+  color: #f07c17;
+  font-weight: bold;
+   font-size: 24px;
+  margin: 50px 0 0 0px;
+}
+
+.Mug {
+  margin: 30px 0 0 0px;
+  
+}
+
+p {
+  line-height:24pt;
+  margin: 10px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font-size:16px;
+  font-weight: normal;
+}
+
+
+
+.MainFeatures {
+  border: 1px solid #ccc;
+  width: 374px;
+  margin: 30px 0 0 0;
+ 
+}
+
+.h2mainfeatures {
+  margin: 30px 0 0 30px;
+  color: #f07c17;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.featureslist {
+  margin: 9px 0 0 30px;
+  font-size: 16px;
+  line-height: 24pt;
+
+
+}
+
+.mockup-overlay {
+  top: 0;
+  position: absolute;
+  z-index: -1;
+  opacity: 0.4;
+}
